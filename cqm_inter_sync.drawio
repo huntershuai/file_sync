@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T13:50:46.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="J3vXVJiXNtsY4kebnU9i" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T13:56:30.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="dznPjB6auW4L-UMlWwS5" version="14.2.7" type="github">
   <diagram id="mgxzi-yPcugMr2c35Z91" name="Page-1">
     <mxGraphModel dx="1718" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G4l-uw-PBjxxs0yxztcG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7aWRvvbhgT_T4m95MLQ-1" target="K7aWRvvbhgT_T4m95MLQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4l-uw-PBjxxs0yxztcG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7aWRvvbhgT_T4m95MLQ-1" target="K7aWRvvbhgT_T4m95MLQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4l-uw-PBjxxs0yxztcG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K7aWRvvbhgT_T4m95MLQ-1" target="K7aWRvvbhgT_T4m95MLQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K7aWRvvbhgT_T4m95MLQ-1" value="TS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="100" width="100" height="50" as="geometry" />
         </mxCell>
@@ -49,8 +58,8 @@
         </mxCell>
         <mxCell id="wm0fCTp2LXdAbT0zuXOt-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="391.5" as="targetPoint" />
-            <mxPoint x="180" y="391.5" as="sourcePoint" />
+            <mxPoint x="630" y="440" as="targetPoint" />
+            <mxPoint x="180" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wm0fCTp2LXdAbT0zuXOt-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="K7aWRvvbhgT_T4m95MLQ-2" edge="1">
@@ -65,7 +74,7 @@
             <mxPoint x="285" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wm0fCTp2LXdAbT0zuXOt-11" value="GSYNC wait" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-10" vertex="1" connectable="0">
+        <mxCell id="wm0fCTp2LXdAbT0zuXOt-11" value="GSYNC CNT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-10" vertex="1" connectable="0">
           <mxGeometry x="-0.2747" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -88,7 +97,7 @@
             <mxPoint x="414" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wm0fCTp2LXdAbT0zuXOt-15" value="GSYNC wait" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-14" vertex="1" connectable="0">
+        <mxCell id="wm0fCTp2LXdAbT0zuXOt-15" value="GSYNC CNT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-14" vertex="1" connectable="0">
           <mxGeometry x="0.208" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -105,7 +114,7 @@
             <mxPoint x="545" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wm0fCTp2LXdAbT0zuXOt-19" value="GSYNC wait" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-17" vertex="1" connectable="0">
+        <mxCell id="wm0fCTp2LXdAbT0zuXOt-19" value="GSYNC CNT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wm0fCTp2LXdAbT0zuXOt-17" vertex="1" connectable="0">
           <mxGeometry x="0.1537" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
