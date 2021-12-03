@@ -1,11 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T05:13:32.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bLL1Tz0Hok7G1tCrBdlE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T06:10:44.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="TW_SaC9G3CnDvSj0cq36" version="14.4.3" type="github">
   <diagram id="i7QMW1x5K39RaPrYkrut" name="Page-1">
-    <mxGraphModel dx="2302" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5-YmETOSnR6zZhraZ0Ge-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="470" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="80" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-2" value="Lib0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-4" value="&lt;span&gt;Lib1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-5" value="&lt;span&gt;Lib2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-6" value="DDR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-8" value="MMU" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="413" y="355" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-10" value="SP CORE 0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-15" value="1. DDR elf 的地址管理问题&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="802" y="330" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-16" value="1. DDR elf 的地址管理问题&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="802" y="360" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-YmETOSnR6zZhraZ0Ge-17" value="cache" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="40" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
