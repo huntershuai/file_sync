@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T03:45:17.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="d0F5D1BOPoAHuGAOLUaH" version="16.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-07T03:45:52.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OAWSIu7_pa6rAPO-ciYA" version="16.2.1" type="github" pages="2">
   <diagram id="i7QMW1x5K39RaPrYkrut" name="Page-1">
     <mxGraphModel dx="2287" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
         <mxCell id="w6HPj9V6Y2Tt4IjDxGVq-11" value="64×512 =4K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215.5" y="1512" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w6HPj9V6Y2Tt4IjDxGVq-12" value="512G = 521× 1G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#4F19FF;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w6HPj9V6Y2Tt4IjDxGVq-12" value="512G = 512× 1G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#4F19FF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205.5" y="1542" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w6HPj9V6Y2Tt4IjDxGVq-14" value="1G = 512×2M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#4F19FF;fillColor=none;" vertex="1" parent="1">
