@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T01:02:31.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="zMzXCUUOdxcdYhGJLX1M" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T01:03:30.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="duPs_rMiO259sxz9MNWa" type="github">
   <diagram id="wKFNy3SVXV0N70M3Oacy" name="第 1 页">
     <mxGraphModel dx="794" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,6 +22,19 @@
         </mxCell>
         <mxCell id="RvZhpGBDHvtvQb7W8IzR-10" value="借贷（调整贴现率）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RvZhpGBDHvtvQb7W8IzR-9">
           <mxGeometry x="-0.2182" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvZhpGBDHvtvQb7W8IzR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvZhpGBDHvtvQb7W8IzR-1" target="RvZhpGBDHvtvQb7W8IzR-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="180" />
+              <mxPoint x="490" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvZhpGBDHvtvQb7W8IzR-16" value="贷款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RvZhpGBDHvtvQb7W8IzR-15">
+          <mxGeometry x="0.6957" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -52,15 +65,20 @@
         <mxCell id="RvZhpGBDHvtvQb7W8IzR-3" value="市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RvZhpGBDHvtvQb7W8IzR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RvZhpGBDHvtvQb7W8IzR-7" target="RvZhpGBDHvtvQb7W8IzR-1">
+        <mxCell id="RvZhpGBDHvtvQb7W8IzR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RvZhpGBDHvtvQb7W8IzR-7" target="RvZhpGBDHvtvQb7W8IzR-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="100" />
+              <mxPoint x="340" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RvZhpGBDHvtvQb7W8IzR-14" value="发型债券" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RvZhpGBDHvtvQb7W8IzR-8">
+          <mxGeometry x="0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RvZhpGBDHvtvQb7W8IzR-7" value="美国政府" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
