@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T01:03:30.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="duPs_rMiO259sxz9MNWa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T01:03:49.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="uJVukJfF4xvQFkyX8sM4" type="github">
   <diagram id="wKFNy3SVXV0N70M3Oacy" name="第 1 页">
     <mxGraphModel dx="794" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RvZhpGBDHvtvQb7W8IzR-14" value="发型债券" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RvZhpGBDHvtvQb7W8IzR-8">
+        <mxCell id="RvZhpGBDHvtvQb7W8IzR-14" value="发行债券" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RvZhpGBDHvtvQb7W8IzR-8">
           <mxGeometry x="0.3333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
